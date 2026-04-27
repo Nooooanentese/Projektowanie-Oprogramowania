@@ -1,0 +1,14 @@
+D:\vs\eeughh\eeughh\bin\Debug\net10.0\eeughh.exe
+D:\vs\eeughh\eeughh\bin\Debug\net10.0\eeughh.deps.json
+D:\vs\eeughh\eeughh\bin\Debug\net10.0\eeughh.runtimeconfig.json
+D:\vs\eeughh\eeughh\bin\Debug\net10.0\eeughh.dll
+D:\vs\eeughh\eeughh\bin\Debug\net10.0\eeughh.pdb
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\eeughh.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\eeughh.AssemblyInfoInputs.cache
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\eeughh.AssemblyInfo.cs
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\eeughh.csproj.CoreCompileInputs.cache
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\eeughh.dll
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\refint\eeughh.dll
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\eeughh.pdb
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\eeughh.genruntimeconfig.cache
+D:\vs\eeughh\eeughh\obj\Debug\net10.0\ref\eeughh.dll
